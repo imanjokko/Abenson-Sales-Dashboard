@@ -6,4 +6,4 @@ This is a data visualization project I made using **Tableau** and **Figma**, wit
 Read the [medium article and project documentation](https://medium.com/@imanjokko/superstore-sales-dashboard-in-tableau-c8243333724b)
 
 --- 
-[Interact with the dashboard in Tableau](https://public.tableau.com/app/profile/imaobong.njokko/viz/SuperstoreSalesDashboard_16808240495050/Dashboard3)
+[Interact with the dashboard in Tableau](https://public.tableau.com/views/AbensonSalesDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
